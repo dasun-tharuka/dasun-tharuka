@@ -1,6 +1,6 @@
 ## Hi, I am Dasun Tharuka 👋
 
-<i> As a highly motivated and detail-oriented Software Engineering Undergraduate, I am passionate about creating innovative software solutions that meet users' needs. My experience in creating and testing software applications and my strong problem-solving skills make me a good fit for a software developer. </i>
+<p style="text-align:justify;"> As a highly motivated and detail-oriented Software Engineering Undergraduate, I am passionate about creating innovative software solutions that meet users' needs. My experience in creating and testing software applications and my strong problem-solving skills make me a good fit for a software developer.
 
 <!--
 **dasun-tharuka/dasun-tharuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
